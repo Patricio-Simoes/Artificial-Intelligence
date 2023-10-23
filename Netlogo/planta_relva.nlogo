@@ -1,6 +1,6 @@
-; Neste programa, encontra-mos um agente cuja função é movimentar-se para a frente e 'plantar' a relve por onde passa.
+; Neste programa, encontramos um agente cuja função é movimentar-se para a frente e 'plantar' a relva por onde passa.
 ; Esta 'plantação' é realizada através da troca de cores do patch onde o agente se encontra ao movimentar-se.
-; Castanho = Não plantado e Verde = Plantado.
+; Castanho = Não plantado, Verde = Plantado.
 
 globals [steps campos]
 breed [agentes agente]
